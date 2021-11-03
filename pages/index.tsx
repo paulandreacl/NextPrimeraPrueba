@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Home: NextPage = () => {
   return (
    <div>
-     <p>Hola mundo -dev</p>
+     <p>Hola mundo desde dev</p>
    <Link href='/admin/users'>
      <a>Ir a admin usuarios</a>
    </Link>
